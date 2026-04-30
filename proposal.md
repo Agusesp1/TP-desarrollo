@@ -5,11 +5,11 @@
 * 54890 - Anduaga, Morena
 * 52221 - España, Agustin
 * 54451 - Valvasoni, Maximo
-* 
+* 53073 - Zuliani, Ignacio
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [Repositorio Front-End]([http://hyperlinkToGihubOrGitlab](https://github.com/Agusesp1/TP-desarrollo-FRONTEND.git))
+* [Repositorio Back-End]([http://hyperlinkToGihubOrGitlab](https://github.com/Agusesp1/TP-desarrollo-BACKEND.git))
 
 ## Tema
 ### Descripción
