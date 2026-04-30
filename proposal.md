@@ -2,8 +2,10 @@
 
 ## Grupo
 ### Integrantes
+* 54890 - Anduaga, Morena
 * 52221 - España, Agustin
 * 54451 - Valvasoni, Maximo
+* 
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
@@ -12,7 +14,7 @@
 
 ## Tema
 ### Descripción
-Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, permitiendo tener usuarios diferenciados(socios, profesores y encargados) loos cuales van a poder interactuar con el sistema, inscribiendose 
+Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, permitiendo tener usuarios diferenciados(socios, profesores y encargados) los cuales van a poder interactuar con el sistema, pudiendo asistir al gimnasio por turno, administrado por el sistema, asignar rutinas a los socios, gestionar las cuotas y verificar su vencimiento, como asi tambien controlar cada usuario de una sede siendo encargado y permitiendole ver estadisticas y datos de la misma.
 
 ### Modelo
 ![imagen del modelo]()
