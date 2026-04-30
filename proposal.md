@@ -2,7 +2,7 @@
 
 ## Grupo
 ### Integrantes
-* legajo - Apellido(s), Nombre(s)
+52221 - España, Agustin
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
