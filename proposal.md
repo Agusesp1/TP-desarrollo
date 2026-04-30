@@ -25,8 +25,6 @@ Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, perm
 
 ### Alcance Mínimo
 
-*Nota*: el siguiente es un ejemplo para un grupo de 3 integrantes para un sistema de hotel. El 
-
 Regularidad:
 |Req|Detalle|
 |:-|:-|
