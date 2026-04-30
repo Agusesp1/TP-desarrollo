@@ -18,7 +18,7 @@ Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, perm
 
 ### Modelo
 
-[Imagen Modelo Dominio](https://drive.google.com/file/d/1aZHxJVEx2nn0aKqZKSoHSuKm9zhDqot0/view?usp=drive_link)
+[Imagen Modelo Dominio](https://drive.google.com/file/d/1f-kPnDfZ-psf7Gbo-C4_mpzHvLksYkXz/view?usp=drive_link)
 
 
 ## Alcance Funcional 
@@ -29,16 +29,16 @@ Regularidad:
 |Req|Detalle|
 |:-|:-|
 |CRUD simple|1. CRUD Usuario<br>2. CRUD Sede<br>3. CRUD Actividad<br>4. CRUD Rutina|
-|CRUD dependiente|1. CRUD Habitación {depende de} CRUD Tipo Habitacion<br>2. CRUD Cliente {depende de} CRUD Localidad|
-|Listado<br>+<br>detalle| 1. Listado de habitaciones filtrado por tipo de habitación, muestra nro y tipo de habitación => detalle CRUD Habitacion<br> 2. Listado de reservas filtrado por rango de fecha, muestra nro de habitación, fecha inicio y fin estadía, estado y nombre del cliente => detalle muestra datos completos de la reserva y del cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva|
+|CRUD dependiente|1. CRUD Rutina {depende de} CRUD Socio<br>2. CRUD Sede {depende de} CRUD Encargado|
+|Listado<br>+<br>detalle| 1. Listado filtrado de socios segun su estado, muestra documento, nombre y vencimiento de la cuota<br> 2. Listado de profes filtrados por sede, muestra nombre, id, especialidad|
+|CUU/Epic|1. Calcular precio de cuota a un usuaroi<br>2. Generar link de pago para la cuota|
 
 
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Reservar una habitación para la estadía<br>2. Realizar el check-in de una reserva<br>3. Realizar el check-out y facturación de estadía y servicios|
+|CUU/Epic|1. Calcular precio de cuota a un usuaroi<br>2. Generar link de pago para la cuota<br>3. Actualizar el estado del usuario|
 
 
 ### Alcance Adicional Voluntario
