@@ -8,8 +8,8 @@
 * 53073 - Zuliani, Ignacio
 
 ### Repositorios
-* [Repositorio Front-End]([http://hyperlinkToGihubOrGitlab](https://github.com/Agusesp1/TP-desarrollo-FRONTEND.git))
-* [Repositorio Back-End]([http://hyperlinkToGihubOrGitlab](https://github.com/Agusesp1/TP-desarrollo-BACKEND.git))
+* [Repositorio Front-End](https://github.com/Agusesp1/TP-desarrollo-FRONTEND.git)
+* [Repositorio Back-End](https://github.com/Agusesp1/TP-desarrollo-BACKEND.git)
 
 ## Tema
 ### Descripción
