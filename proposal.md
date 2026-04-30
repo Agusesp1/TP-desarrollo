@@ -20,7 +20,6 @@ Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, perm
 
 [Imagen Modelo Dominio](https://drive.google.com/file/d/1aZHxJVEx2nn0aKqZKSoHSuKm9zhDqot0/view?usp=drive_link)
 
-*Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
 ## Alcance Funcional 
 
