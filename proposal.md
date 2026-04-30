@@ -17,7 +17,8 @@
 Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, permitiendo tener usuarios diferenciados(socios, profesores y encargados) los cuales van a poder interactuar con el sistema, pudiendo asistir al gimnasio por turno, administrado por el sistema, asignar rutinas a los socios, gestionar las cuotas y verificar su vencimiento, como asi tambien controlar cada usuario de una sede siendo encargado y permitiendole ver estadisticas y datos de la misma.
 
 ### Modelo
-![imagen del modelo]()
+
+https://drive.google.com/file/d/1aZHxJVEx2nn0aKqZKSoHSuKm9zhDqot0/view?usp=drive_link
 
 *Nota*: incluir un link con la imagen de un modelo, puede ser modelo de dominio, diagrama de clases, DER. Si lo prefieren pueden utilizar diagramas con [Mermaid](https://mermaid.js.org) en lugar de imágenes.
 
