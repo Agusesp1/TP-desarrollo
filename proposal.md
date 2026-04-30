@@ -2,8 +2,8 @@
 
 ## Grupo
 ### Integrantes
-52221 - España, Agustin
-54451 - Valvasoni, Maximo
+* 52221 - España, Agustin
+* 54451 - Valvasoni, Maximo
 
 ### Repositorios
 * [frontend app](http://hyperlinkToGihubOrGitlab)
