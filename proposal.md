@@ -37,8 +37,8 @@ Regularidad:
 Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
-|CRUD |1. CRUD Tipo Habitacion<br>2. CRUD Servicio<br>3. CRUD Localidad<br>4. CRUD Provincia<br>5. CRUD Habitación<br>6. CRUD Empleado<br>7. CRUD Cliente|
-|CUU/Epic|1. Calcular precio de cuota a un usuaroi<br>2. Generar link de pago para la cuota<br>3. Actualizar el estado del usuario|
+|CRUD |1. CRUD Usuario<br>2. CRUD Sede<br>3. CRUD Actividad<br>4. CRUD Rutina<br>5. CRUD Cuota<br>6. CRUD Reserva<br>7. CRUD Turno|
+|CUU/Epic|1. Calcular precio de cuota a un usuaro<br>2. Generar link de pago para la cuota<br>3. Actualizar el estado del usuario|
 
 
 ### Alcance Adicional Voluntario
@@ -47,7 +47,7 @@ Adicionales para Aprobación
 
 |Req|Detalle|
 |:-|:-|
-|Listados |1. Estadía del día filtrado por fecha muestra, cliente, habitaciones y estado <br>2. Reservas filtradas por cliente muestra datos del cliente y de cada reserve fechas, estado cantidad de habitaciones y huespedes|
-|CUU/Epic|1. Consumir servicios<br>2. Cancelación de reserva|
+|Listados |1. Listado de rutinas para un profesor<br>|
+|CUU/Epic|1.Asignar rutina a socio<br>2. Reservar  un turno<br>3. |
 |Otros|1. Envío de recordatorio de reserva por email|
 
