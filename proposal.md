@@ -12,7 +12,7 @@
 
 ## Tema
 ### Descripción
-*2 a 6 líneas describiendo el negocio (menos es más)*
+Nuestro proyecto es desarrollar un software para la gestion de un gimnasio, permitiendo tener usuarios diferenciados(socios, profesores y encargados) loos cuales van a poder interactuar con el sistema, inscribiendose 
 
 ### Modelo
 ![imagen del modelo]()
